@@ -1,0 +1,7 @@
+#Basic Calculator
+
+ans = input("First Number: ")
+ans2 = input("Second Number: ")
+
+fans = int(ans)*int(ans2)
+print(fans) 
